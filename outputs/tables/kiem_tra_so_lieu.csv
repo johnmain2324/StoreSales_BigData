@@ -1,0 +1,30 @@
+﻿hang_muc,gia_tri
+raw/train.csv (so dong),3000888
+raw/test.csv (so dong),28512
+raw/stores.csv (so dong),54
+raw/oil.csv (so dong),1218
+raw/holidays_events.csv (so dong),350
+raw/transactions.csv (so dong),83488
+raw/sample_submission.csv (so dong),28512
+parquet/train (so dong),3000888
+parquet/test (so dong),28512
+parquet/stores (so dong),54
+parquet/oil (so dong),1218
+parquet/holidays_events (so dong),350
+parquet/transactions (so dong),83488
+parquet/sample_submission (so dong),28512
+processed/train_sach (so dong),3000888
+processed/test_sach (so dong),28512
+processed/train_dac_trung (so dong),2533932
+processed/test_dac_trung (so dong),28512
+models/random_forest_pipeline,CO
+models/random_forest_pipeline_kiem_dinh,CO
+du_bao_test.csv - cot,"['id', 'sales']"
+du_bao_test.csv - so dong,28512
+du_bao_test.csv - id duy nhat,True
+du_bao_test.csv - khong null,True
+du_bao_test.csv - sales khong am,True
+du_bao_test.csv - id khop voi test.csv goc,True
+report/ - so file .docx,1
+report/ - file bao cao,BaoCao_Nhom09_DeTai4_StoreSales.docx
+Ket luan,DAT

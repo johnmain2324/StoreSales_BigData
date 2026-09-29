@@ -1,0 +1,34 @@
+﻿hang_muc,gia_tri
+He dieu hanh,Windows 10 (10.0.26200)
+So loi CPU (logic),16
+RAM (GB),15.7
+Python,3.11.9
+Python executable,C:\Users\Bour Bon\Downloads\StoreSales_BigData_GD1\StoreSales_BigData\.venv\Scripts\python.exe
+Dang chay trong venv,True
+JAVA_HOME,C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot
+Java,"openjdk version ""17.0.18"" 2026-01-20"
+HADOOP_HOME,C:\hadoop
+winutils.exe,CO
+hadoop.dll,CO
+%HADOOP_HOME%\bin trong PATH,True
+pyspark,3.5.9
+pandas,2.2.3
+numpy,1.26.4
+pyarrow,17.0.0
+matplotlib,3.9.2
+seaborn,0.13.2
+statsmodels,0.14.4
+python-docx,1.1.2
+openpyxl,3.1.5
+ipykernel,6.29.5
+Thoi gian khoi dong Spark (s),3.88
+Spark version,3.5.9
+Master,local[*]
+defaultParallelism,16
+spark.driver.memory,8g
+spark.sql.shuffle.partitions,16
+Spark UI,http://192.168.1.35:4040
+Ghi Parquet (s),2.63
+So dong doc lai,100000
+Ghi/doc Parquet,DAT
+Ket luan,DAT
